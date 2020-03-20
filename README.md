@@ -8,3 +8,7 @@ The dataset files mainly covers 3 folders;
 - articles : comprised of the article data that was scraped from each of the selected publishers. 
 - clickbait_annotated : comprised of the 15,000 sample selected from the article data along with the labels of all 3 annotators
 - clickbait_dataset : comprised of the 15,000 sample, only with the labels
+
+
+### Scraper
+The Scrapy Project code. Each publisher has a specific spider code, located in the /Scrapy/News/spider/ directory
