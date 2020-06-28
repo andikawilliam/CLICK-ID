@@ -1,5 +1,5 @@
 # CLICK-ID
-This repository contains the files of the CLICK-ID Dataset that was constructed during the author's Undergraduate Thesis; Clickbait Detection for Bahasa Indonesia using Bi-LSTM. 
+This repository contains the files of the CLICK-ID clickbait dataset that was constructed during my Undergraduate Thesis; Clickbait Detection for Bahasa Indonesia using Bi-LSTM. It is a collection of Indonesian news headlines, with binary labels; clickbait or non-clickbait.
 It is mainly divided into 2 parts, the dataset files and the Scraper code.
 
 
